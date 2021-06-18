@@ -1,0 +1,14 @@
+.presentation-bar{
+    width: 170.86px;
+    height: 170.86px;
+    left: 100.52px;
+    top: 83px;
+}
+.presentation-bar__button{
+    width: 208px;
+    height: 47px;
+    left: 83px;
+    top: 561px;
+    background: #FF6464;
+    border-radius: 2px;
+}
