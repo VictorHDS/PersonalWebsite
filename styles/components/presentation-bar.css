@@ -1,10 +1,13 @@
 .presentation-bar{
+    position: absolute;
     width: 170.86px;
     height: 170.86px;
     left: 100.52px;
     top: 83px;
+    text-align: center;
 }
 .presentation-bar__button{
+    position: absolute;
     width: 208px;
     height: 47px;
     left: 83px;

@@ -1,3 +1,4 @@
+@import '/styles/utils/index.css';
 @import '../components/header-bar.css';
 @import '../components/presentation-bar.css';
 @import '../components/blog-posts.css';

@@ -1,0 +1,28 @@
+.blog-posts__background{
+    background: #EDF7FA;
+}
+.blog-posts{
+    position: absolute;
+    width: 375px;
+    height: 647px;
+    left: 0px;
+    top: 666px;
+    box-shadow: 0px 4px 10px rgba(187, 225, 250, 0.25);
+    border-radius: 4px;
+}
+.post-01{
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 11px;
+    top: 726px;
+    background: #FFFFFF;
+}
+.post-02{
+    position: absolute;
+    width: 354px;
+    height: 266px;
+    left: 11px;
+    top: 1009px;
+    background: #FFFFFF;
+}
