@@ -1,20 +1,26 @@
 .presentation-bar{
     position: absolute;
-    width: 170.86px;
-    height: 170.86px;
-    left: 100.52px;
-    top: 83px;
     text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    height: 170.86px;
+    top: 83px;
 }
 .presentation-bar__avatar{
-    width: 80px;
+    width: 150px;
 }
 .presentation-bar__button{
-    position: absolute;
     width: 208px;
     height: 47px;
     left: 83px;
     top: 561px;
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    color: #fff;
     background: #FF6464;
+    border: none;
     border-radius: 2px;
 }
