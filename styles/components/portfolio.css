@@ -1,7 +1,19 @@
 .creation-01{
     position: absolute;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
     width: 344px;
     height: 455px;
     left: 18px;
     top: 1378px;
+}
+.creation-01__img{
+    height: 200px;
+    width: 300px;
+    left: 0px;
+    top: 0px;
+    border-radius: 6px;
+    background: url(Screen Shot 2021-06-18 at 8.28.04 PM.png);
+    border-radius: 6px;
 }

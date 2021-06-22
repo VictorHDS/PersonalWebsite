@@ -1,7 +1,14 @@
 .footer-bar{
     position: absolute;
-    width: 375px;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
     height: 182px;
-    left: 0px;
     top: 1983px;
+}
+.footer-bar__img{
+    margin-bottom: 26px;
+}
+.footer-bar__img:not(:last-child){
+    padding-right: 35px;
 }
