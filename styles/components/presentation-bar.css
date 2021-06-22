@@ -6,6 +6,9 @@
     top: 83px;
     text-align: center;
 }
+.presentation-bar__avatar{
+    width: 80px;
+}
 .presentation-bar__button{
     position: absolute;
     width: 208px;
