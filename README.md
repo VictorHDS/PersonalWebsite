@@ -2,4 +2,4 @@
 
 ## Portfolio/Personal and Professional Information
 
-### My style, my code, my art
+### For Mobile and Desktop visualization
