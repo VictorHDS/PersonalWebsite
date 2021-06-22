@@ -3,6 +3,7 @@
 }
 .blog-posts{
     position: absolute;
+    text-align: center;
     width: 375px;
     height: 647px;
     left: 0px;
@@ -11,7 +12,6 @@
     border-radius: 4px;
 }
 .post-01{
-    position: absolute;
     width: 354px;
     height: 266px;
     left: 11px;
@@ -19,7 +19,6 @@
     background: #FFFFFF;
 }
 .post-02{
-    position: absolute;
     width: 354px;
     height: 266px;
     left: 11px;
